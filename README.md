@@ -8,4 +8,4 @@ We also provide the guide to use stata on jupyter notebook that find very nice t
 
 ------------ French ---------------------
 
-Le répertoire contient des documents essentiels pour l'apprentissage de stata
+Le répertoire contient des documentsdjdj essentiels pour l'apprentissage de stata

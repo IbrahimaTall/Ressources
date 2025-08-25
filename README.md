@@ -6,6 +6,8 @@ This resources provides users to be familiar with Python, R and STATA to process
  -2 res-r
  -3 res-stata
 
+---
+
 We also provide the guide to use stata on jupyter notebook that find very nice to use
 
 ------------ French ---------------------
